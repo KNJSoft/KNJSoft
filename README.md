@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
 <h3 align="center">Développeur back-end ,Administrateur systèmes et reseaux,consultant cybersécurité.</h3>
 
-- 🌱 J'apprends actuellement le **Machine learning,l'administration systèmes et la sécurité informatique**
+- 🌱 J'apprends actuellement le **Développement Back-end,l'administration systèmes et la sécurité informatique**
 
 - 📫 Me contacter **knjprod@gmail.com / knjprod.py@gmail.com**
 
