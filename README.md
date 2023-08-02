@@ -1,14 +1,14 @@
 <h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
-<h3 align="center">Développeur Full Stack ,Administrateur systèmes et reseaux,consultant cybersécurité.</h3>
+<h3 align="center">Développeur Full Stack.</h3>
 
-- 🌱 J'apprends actuellement le **Développement Full Stack,l'administration systèmes et la sécurité informatique**
+- 🌱 J'apprends actuellement le **Développement Full Stack !!!**
 
 - 📫 Me contacter **knjprod@gmail.com / knjprod.py@gmail.com**
 - 📫 Me contacter **+237674242398**
 
 <h3 align="left">Me suivre:</h3>
 <p align="left">
-<a href="https://twitter.com/knjsoft74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dprogrammeur" height="30" width="40" /></a>
+<a href="https://twitter.com/knjsoft74"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dprogrammeur" height="30" width="40" /></a>
 <a href="https://web.facebook.com/knjsoft74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donaldprogrammeur" height="30" width="40" /></a>
 <a href="https://youtube.com/@knjsoft9396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donald programmeur" height="30" width="40" /></a>
 </p>
