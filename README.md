@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
-<h3 align="center">Développeur Full Stack.</h3>
+<h3 align="center">Développeur Full Stack, Administrateur systèmes et réseaux.</h3>
 
 - 🌱 J'apprends actuellement le **Développement Full Stack !!!**
 
