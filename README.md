@@ -4,7 +4,6 @@
 - 🌱 J'apprends actuellement le **Développement Back-en, L'analyse de données, L'administration systèmes et le Deep Learning !!!**
 
 - 📫 Me contacter **knjprod@gmail.com / knjprod.py@gmail.com**
-- 📫 Me contacter **+237674242398**
 
 <h3 align="left">Me suivre:</h3>
 <p align="left">
@@ -52,11 +51,11 @@
 '   : |    '   : |     \    \         ;   `--'---'    `----'  |  : \    |  ,   /  
 ;   |,'    ;   |.'      \    \      ,'                        |  |,'     ---`-'   
 '---'      '---'         "---....--'                          `--'
-                [✔] https://github.com/KNJSoft [✔]
-                [✔]     knjprod@gmail.com      [✔]
-                [✔]     +237 674 242 398       [✔]
-                [✔]     +237 699 258 645       [✔]
-                [✔]     Analyste développeur   [✔]
+                      [✔] https://github.com/KNJSoft [✔]
+                      [✔]     knjprod@gmail.com      [✔]
+                      [✔]     +237 674 242 398       [✔]
+                      [✔]     +237 699 258 645       [✔]
+                      [✔]     Analyste développeur   [✔]
                 
 </pre>
 
