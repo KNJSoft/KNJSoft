@@ -37,11 +37,11 @@
 <p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knjsoft" /></p> <h3 align="left"> +237 674242398 / +237 699258645</h3>
 <br><br>
 <pre style="">                                                                             
-                      [✔] https://github.com/KNJSoft [✔]
-                      [✔]     knjprod@gmail.com      [✔]
-                      [✔]     +237 674 242 398       [✔]
-                      [✔]     +237 699 258 645       [✔]
-                      [✔]     Analyste développeur   [✔]
+[✔] https://github.com/KNJSoft [✔]
+[✔]     knjprod@gmail.com      [✔]
+[✔]     +237 674 242 398       [✔]
+[✔]     +237 699 258 645       [✔]
+[✔]     Analyste développeur   [✔]
                 
 </pre>
 
