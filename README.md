@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p> <a href="https://me.lygosapp.com/rw6ANBv4" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knjsoft" /> </a></p>
 <br><br>
-<p>                                                                             
+<p><br>                                                                             
 [✔] https://github.com/KNJSoft [✔]<br>
 [✔]     knjprod@gmail.com      [✔]<br>
 [✔]     +237 674 242 398       [✔]<br>
