@@ -33,10 +33,11 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png?20150601231402" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png?20150601231402" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Support:</h3>
-<p> <a href="https://knjsoft.pythonanywhere.com/dons/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knjsoft" /> </a></p>
+<p> <a href="https://knjsoft.pythonanywhere.com/dons/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Freact-logo-2%2F&psig=AOvVaw0Ir7_8r1wh5nWPsWfrdl0l&ust=1739389401654000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCMjWr4mxvIsDFQAAAAAdAAAAABAE" height="50" width="210" alt="knjsoft" /> </a></p>
 <br><br>
 <p><br>                                                                             
 [✔]     knjprod@gmail.com      [✔]<br>
