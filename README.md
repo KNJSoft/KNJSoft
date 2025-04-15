@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
 <h3 align="center"> Analyste Développeur, Administrateur systèmes et réseaux, Consultant Cybersécurité.</h3>
 
-- 🌱 J'apprends actuellement les **Tests de pénétration et L'analyse de vulnérabilités !!!**
+- 🌱 J'apprends actuellement les **Tests de pénétration, L'analyse de vulnérabilités et l'analyse de données !!!**
 
 - 📫 Me contacter **knjprod@gmail.com**
 
