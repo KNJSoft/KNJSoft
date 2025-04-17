@@ -38,6 +38,8 @@
   <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/> </a>
  <a href="https://tenable.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" alt="Nessus" width="60" height="60"/> </a>
 
+<a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Support:</h3>
