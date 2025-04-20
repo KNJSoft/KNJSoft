@@ -7,9 +7,8 @@
 
 <h3 align="left">Me suivre:</h3>
 <p align="left">
-<a href="https://twitter.com/knjsoft74"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dprogrammeur" height="30" width="40" /></a>
-
-<a href="https://youtube.com/@knjsoft9396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donald programmeur" height="30" width="40" /></a>
+<a href="https://twitter.com/knjsoft74"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KNJSoft" height="30" width="40" /></a>
+<a href="https://youtube.com/@knjsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donald programmeur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et Outils:</h3>
