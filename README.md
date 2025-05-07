@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
-<h3 align="center"> Analyste Développeur </h3>
+<h3 align="center"> Codeur </h3>
 
-- 🌱 J'apprends actuellement les **Tests de pénétration, L'analyse de vulnérabilités et l'analyse de données !!!**
+- 🌱 J'apprends actuellement le ** Code !!!**
 
 - 📫 Me contacter **knjprod@gmail.com**
 
