@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Joel Ngouagna.K</h1>
+<h1 align="center">Salut 👋, Je suis KNJ</h1>
 <h3 align="center"> Codeur </h3>
 
 - 🌱 J'apprends actuellement le **Code !!!**
