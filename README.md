@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis KNJ</h1>
-<h3 align="center"> Codeur </h3>
+<h3 align="center">Codeur</h3>
 
 - 🌱 J'apprends actuellement le **Code !!!**
 
