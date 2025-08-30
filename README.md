@@ -11,7 +11,7 @@
 <a href="https://youtube.com/@knjsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KNJSoft" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langages et Outils:</h3>
+<h3 align="left">Langages et Outils :</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="40" height="40"/> </a>
