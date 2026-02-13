@@ -1,17 +1,28 @@
-<h1 align="center">Salut 👋, Je suis KNJ </h1>
-<h3 align="center">Codeur</h3>
+<!-- translate in english -->
+<h1 align="center">Hello 👋, I'm KNJ </h1>
+<h3 align="center">Coder & Logician/INTP</h3>
 
-- 🌱 J'apprends actuellement le **Code !!!**
+- 🌱 I'm currently learning to code !!!
+- 🚀 never stop until the bug is fixed
+- 🚀 never stop until the project is finished
+- 🚀 never stop until the user is satisfied
 
-- 📫 Me  contacter **knjprod@gmail.com**
+- 📫 Contact me **https://www.knjsoft.tech**
 
-<h3 align="left">Me suivre:</h3>
+
+<!-- my blog coming soon -->
+<h3 align="left">My Blog(Coming soon):</h3>
+<p align="left">
+<a href="https://blog.knjsoft.tech" target="blank">https://blog.knjsoft.tech</a>
+</p>
+
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://twitter.com/knjsoft74"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KNJSoft" height="30" width="40" /></a>
 <a href="https://youtube.com/@knjsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KNJSoft" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langages et Outils :</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="40" height="40"/> </a>
@@ -35,9 +46,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJs" width="40" height="40"/> </a>
 
 <h3 align="left">Support:</h3>
-<p> <a href="https://knjsoft.pythonanywhere.com/dons/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knjsoft" /> </a></p>
+<p> <a href="https://www.knjsoft.tech/dons/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knjsoft" /> </a></p>
 <br><br>
 
 
 <br><br>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knjsoft&" alt="knjsoft" /></p>
